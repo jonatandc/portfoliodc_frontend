@@ -1,0 +1,11 @@
+.contenedor-images {
+    background-size: cover;    
+}
+
+.sin-borde {
+border: none
+}
+
+.borde-inferior {
+    border-bottom: 1px;
+}
